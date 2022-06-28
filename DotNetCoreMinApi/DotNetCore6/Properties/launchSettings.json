@@ -1,0 +1,23 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:58369/",
+      "sslPort": 44349
+    }
+  },
+  "profiles": {
+    "DotNetCore6": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    },
+    "iis": {
+      "commandName": "IISExpress"
+    }
+  }
+}
